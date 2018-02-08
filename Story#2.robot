@@ -24,6 +24,7 @@ ${FTPIP}            10.20.6.58
 ${FTPHostUser}      cbsist
 
 
+
 *** Test Cases ***
 
 Generate file CBS->CMS (ZUTBLCOLPRJ,ZUTBLCOLSPRJ)
