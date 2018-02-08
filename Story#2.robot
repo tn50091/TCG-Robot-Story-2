@@ -25,6 +25,8 @@ ${FTPHostUser}      cbsist
 
 
 
+
+
 *** Test Cases ***
 
 Generate file CBS->CMS (ZUTBLCOLPRJ,ZUTBLCOLSPRJ)
